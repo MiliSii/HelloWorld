@@ -6,7 +6,6 @@ Default -main lifecycle,
 Clean- remove the /target folder,
 Site- creating a website.
 
-
 commands:
 mvn install – for building project,
 mvn test – for test, 
