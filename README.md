@@ -1,5 +1,6 @@
 # Task Maven
 
+
 Maven Lifecycle: default, clean, and site and all of them have phases. Phases rely on plugins to do work.
 
 Default -main lifecycle,
