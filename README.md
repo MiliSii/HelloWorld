@@ -14,6 +14,7 @@ mvn package – for creating jars.
 
 .m2 is local repository. It is used for storing all the dependency jars after Maven project is builed. My Location: C:\Users\milicasi\.m2\repository\maven 
 
+
 Pom file structure:
 Project root i.e. <project>,
 Model version i.e. <modelVersion>,
