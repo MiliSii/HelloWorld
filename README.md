@@ -31,7 +31,4 @@ For parent/child:
 POM file in Project root directory. Reference from child POM file which contains the same coordinates stated in parent POM. Child POM file refer the parent POM file using the <parent> tag. Child POM file inherits all dependencies and properties from the parent POM file. Additionally, It also inherits subprojects dependencies.
 
 jnkjfsnvgkjdsbvbdvhjf
-iuhdifjodijfodijfoid
-
-
-junhfdkjhgfkgkfjjfojfidjifjijfdijfd
+iuhdifjodijfodijfoidbdkjshdjilfdlfkmsafmsklmlkfcklmc
